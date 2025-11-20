@@ -72,6 +72,10 @@ var votingAge = 16;
 votingAge>=18 ? console.log("You can vote") : console.log("You cannot vote");
 
 
+
+//updated today 20/11/2025
+
+
 //long-way...
 var grade= 30
 
